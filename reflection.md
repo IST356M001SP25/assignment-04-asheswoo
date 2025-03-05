@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ashlyn Woo
+Sudent Email:  awoo05@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+This was a great way to apply pandas and Streamlit to build an interactive dataset browser. It challenged me to handle different data types, user interactions, and dynamic filtering efficiently. I learned how to use pandas for data manipulation, retrieve column names, filter data types, and extract unique values, as well as how to integrate Streamlit to create a user-friendly interface for loading, filtering, and displaying datasets. One challenge I faced was understanding Streamlit’s state management and ensuring the UI updated correctly when filters were applied. Handling different file formats (CSV, JSON, XLSX) also required careful parsing and debugging. Additionally, implementing dynamic column and row filtering took trial and error to get the dropdowns to update based on available values. Moving forward, I want to improve my understanding of Streamlit’s interactivity, optimize performance for large datasets, and enhance error handling in load_file(). Overall, this assignment strengthened my pandas skills and introduced me to building interactive data apps, giving me confidence in working with real-world datasets while also sparking curiosity about Streamlit’s more advanced capabilities.
